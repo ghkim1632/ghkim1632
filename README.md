@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
 </div>
+</p>
 
 <div alin="Center">🛠Tools🛠</div>
 
@@ -20,5 +21,8 @@
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 </div>
+<<<<<<< HEAD
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ghkim1632)](https://solved.ac/ghkim1632)<br/>
+=======
+>>>>>>> 806af35f57e4e3ea1347f382a02653ac2c3213ed
