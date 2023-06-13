@@ -1,4 +1,7 @@
-Hi, I'm Gahyeon Kim.
+## Hi, I'm Gahyeon Kim.
+
+🌱 I’m currently learning Deep Learning Computer vision.
+
 
 ---
 
@@ -17,3 +20,5 @@ Hi, I'm Gahyeon Kim.
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 </div>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ghkim1632)](https://solved.ac/ghkim1632)<br/>
